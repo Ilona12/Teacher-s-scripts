@@ -1,3 +1,5 @@
+//Javascript decorator of functions
+
 var sum = function (a, b) {
   return a + b;
 };
